@@ -1,0 +1,263 @@
+@media screen and (max-width:600px){
+
+	#slider{
+		height: 10%;
+
+	}
+	.logo{
+		width: 40%;
+		top: 10%;
+	}
+
+	#landing p{
+		font-size: 1.2em;
+		width: 60%;
+		position: absolute;
+	top: 70%;
+	left: 12%;
+		text-shadow: 1px 1px 3px #000000;
+		color: white;
+
+	}
+	#landing a img{
+		width: 40%;
+
+	}
+
+	h1{
+		font-size: 3.9em;
+
+	}
+
+	#home{
+		margin: 4% 10% 0 7% ;
+
+
+	}
+	#home p{
+		font-size: 1em;
+
+
+	}
+
+	.desktop-div1{
+		content: url("/img/husky-with-vet.png");
+		width: 100%;
+		margin: 0 0 0 -5px;
+	}
+
+	.serv p{
+		font-size:  1em;
+
+	}
+
+div	#accordion{
+		width: 90%;
+		margin: 0 10% 2%;
+		column-count: 1;
+	}
+
+	.accordion dd {
+		font-size: 1em;
+
+	}
+
+	.accordion dt{
+		font-size: 1.4em;
+
+	}
+
+	.desktop-div{
+		content: url(/img/galeria-split.png)
+
+	}
+
+	#galeria img{
+		width: 47%;
+
+	}
+
+	.contactxola{
+		width: 90%;
+
+	}
+
+	.contactleones{
+		width: 90%;
+
+	}
+
+	#contacto h2{
+		font-size: 1.4em;
+		margin: -10% 0 -5% 0;
+	}
+
+	#contacto p{
+		font-size: 1em;
+
+	}
+
+	.phones img{
+		width: 100%;
+
+	}
+
+	.email img{
+		width: 90%;
+
+	}
+
+	.footer img{
+		width: 10%;
+
+	}
+
+	.your-class .one{
+		content: url(/img/mobile-1.png);
+
+	}
+
+	.two{
+		content: url(/img/mobile-2.png);
+
+	}
+
+	.three{
+		content: url(/img/mobile-3.png);
+
+	}
+	.mapaxola{
+		width: 90%;
+		margin: -5% 0 8%;
+
+	}
+	.mapaleon{
+		width: 90%;
+		margin: -5% 0 8%;
+
+	}
+
+}
+
+
+
+@media screen and (min-width:601px) and ( max-width:800px){
+	.your-class .one{
+		content: url(/img/tablet-1.png);
+
+	}
+
+	.two{
+		content: url(/img/tablet-2.png);
+
+	}
+
+	.three{
+		content: url(/img/tablet-3.png);
+
+	}
+#landing p{
+		font-size: 1.2em;
+		width: 80%;
+		position: absolute;
+	top: 80%;
+	left: 12%;
+		text-shadow: 1px 1px 3px #000000;
+		color: white;
+
+	}
+
+	.logo{
+		width: 40%;
+		top: 5%;
+	}
+
+	#landing a img{
+		width: 40%;
+
+	}
+
+	h1{
+		font-size: 5em;
+
+	}
+	#home{
+		width: 80%;
+		margin: 2% 8%;
+
+	}
+	.accordion dd {
+		font-size: 1em;
+
+	}
+
+	.accordion dt{
+		font-size: 1.4em;
+
+	}
+	#galeria img{
+		width: 47%;
+
+	}
+	.contactxola{
+	width: 45%;
+	margin: -1% 0% 2%;
+	padding: 1%;
+	display: inline-block;
+	float: left;
+	clear: both;
+}
+
+	#contacto h2{
+		font-size: 2.2em;
+		line-height: 1.1;
+
+	}
+.mapaxola{
+	width: 50%;
+	float: right;
+	display: inline-block;
+}
+
+.contactleones{
+		width: 45%;
+	margin: -1% 0% 2%;
+	padding: 1%;
+	display: inline-block;
+	float: left;
+	clear: both;
+
+}
+
+.mapaleon{
+	width: 50%;
+	float: right;
+	display: inline-block;
+}
+
+		#contacto h2{
+		font-size: 1.4em;
+		margin: -5% 0 -5% 0;
+	}
+
+	#contacto p{
+		font-size: 1em;
+
+	}
+
+	.phones img{
+		width: 100%;
+
+	}
+
+	.email img{
+		width: 90%;
+
+	}
+
+	.footer img{
+		width: 4%;
+
+	}
+
+}
