@@ -29,10 +29,12 @@ a{
 
 
 .coming_soon{
-  max-width: 80%;
-  min-width: 60%;
-  height: 100%;
-  padding: 10% 20%;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 
 .logo{
